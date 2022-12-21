@@ -8,7 +8,7 @@
 
 - 언어는 상관없지만 일단 `python`
 
-- 마땅한 문제 없으면 https://www.acmicpc.net/workbook/codeplus 참고
+- 마땅한 문제 없으면 [백준 Code.plus 문제집](https://www.acmicpc.net/workbook/codeplus) 참고
 
 - 난이도는 알아서: 순차적으로 풀 필요X
 
@@ -70,6 +70,8 @@
 <br>
 
 ## 💦 참고
+
+[upstream 원격 저장소 설정하기](https://nochoco-lee.tistory.com/6)
 
 [fork해서 Pull Request 보내는 법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
