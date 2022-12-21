@@ -1,4 +1,4 @@
-# :smiley_cat:**백준 Code.Plus 풀이 저장소**
+# :smiley_cat:**CT 풀이 저장소**
 
 <br>
 
