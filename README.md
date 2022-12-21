@@ -21,7 +21,7 @@
 ## 💻 커밋 규칙
 
 - `master` 는 대표자 1명이 관리하고 코드 리뷰가 끝나면 `master`로 merge한다.
-- 각자 이름(이니셜 ex. chj)을 `branch`로 생성하여 파일을 commit 및 PR한다.
+- 각자 이름(이니셜 ex. hgd)을 `branch`로 생성하여 파일을 commit 및 PR한다.
 - 커밋 규칙
     - 파일 추가
         - `add : 220915 boj_1000 Solved`
