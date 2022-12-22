@@ -2,17 +2,15 @@
 
 <br>
 
-## 📘 계획
+## 📘 문제
 
-- 알아서 문제 찾아서 수시로 풀기
+- [백준 Code.plus 문제집](https://www.acmicpc.net/workbook/codeplus)
 
-- 언어는 상관없지만 일단 `python`
+- [코딜리티](https://app.codility.com/programmers/lessons/1-iterations/)
 
-- 마땅한 문제 없으면 [백준 Code.plus 문제집](https://www.acmicpc.net/workbook/codeplus) 참고
+- [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
-- 난이도는 알아서: 순차적으로 풀 필요X
-
-- 다른 리뷰어에게 리뷰 받고 싶으면 리뷰어를 선정해주기, 그게 아니라면 알아서 merge 한다.
+- 리뷰 받고 싶지 않으면 알아서 merge
 
 <br>
 
