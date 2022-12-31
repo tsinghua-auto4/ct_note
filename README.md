@@ -1,5 +1,7 @@
 # :smiley_cat: **CT 풀이 저장소**
 
+그냥 코딩 문제 꾸준히 풀자는 느낌으로 만든 저장소
+
 <br>
 
 ## 📘 문제
@@ -10,7 +12,7 @@
 
 - [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
-- 리뷰 받고 싶지 않으면 알아서 merge
+- 알아서 merge
 
 <br>
 
@@ -18,11 +20,11 @@
 
 ## 📁 디렉토리 및 파일 구조
 
-`YYMM/DD/이름_플랫폼_문제번호(or문제이름).py` 형식
+형식 : `플랫폼/YYMM/DD/이름_문제번호(or문제이름).py`
 
-예시 1 : `2209/15/홍길동_boj_10430.py`
+예시1 : `Codility/2209/15/홍길동_CyclicRotation.py`
 
-예시 2 : `2209/15/홍길동_codility_CyclicRotation.py`
+예시2 : `BOJ/2209/15/홍길동_10430_나머지.py`
 
 <br>
 
@@ -30,8 +32,7 @@
 
 ## 📸 커밋 규칙
 
-- `master` 는 대표자 1명이 관리하고 코드 리뷰가 끝나면 `master`로 merge한다.
-- 각자 이름(이니셜 ex. hgd)을 `branch`로 생성하여 파일을 commit 및 PR한다.
+- 각자 이니셜(ex. hgd)을 `branch`로 생성하여 파일을 commit 및 PR한다.
 - 커밋 규칙
     - 파일 추가
         - `add : 220915 boj_1000 Solved`
@@ -55,13 +56,11 @@
 
 - PR 제목
 
-  형식  : `연도날짜 이름 플랫폼 문제번호 문제이름 풀이`
+  형식  : `YYMMDD 이름 플랫폼 문제번호 문제이름 풀이`
   
   예시  : `220915 홍길동 백준 10430 나머지 풀이`
 
 - PR 내용 → 풀이 방법에 대한 간단한 설명 or 어려웠던 부분 설명
-
-- PR 승인할 때 Comment 하나씩 달아주기
 
 <br>
 
