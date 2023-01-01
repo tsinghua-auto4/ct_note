@@ -45,6 +45,7 @@
         - boj
         - programmers
         - codility
+        - swea
         - ...
 - 코드 리뷰 이후 `master` branch에 merge
 
