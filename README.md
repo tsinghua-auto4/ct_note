@@ -12,6 +12,8 @@
 
 - [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
+- [SWEA](https://swexpertacademy.com/main/main.do)
+
 - 알아서 merge
 
 <br>
@@ -43,6 +45,7 @@
         - boj
         - programmers
         - codility
+        - swea
         - ...
 - 코드 리뷰 이후 `master` branch에 merge
 
