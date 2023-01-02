@@ -37,10 +37,10 @@
 - 각자 이니셜(ex. hgd)을 `branch`로 생성하여 파일을 commit 및 PR한다.
 - 커밋 규칙
     - 파일 추가
-        - `add : 220915 boj_1000 Solved`
-        - `add : 220915 boj_1000 Failed`
+        - `add: 220915 boj_1000 Solved`
+        - `add: 220915 boj_1000 Failed`
     - 파일 수정
-        - `fix : 220915 boj_1000 Solved`
+        - `fix: 220915 boj_1000 Solved`
     - 플랫폼 이름
         - boj
         - programmers
