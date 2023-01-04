@@ -14,6 +14,9 @@ each element of array A is an integer within the range [1..1,000,000,000].
 두 총합이 같다면 순열.
 숫자가 중복된 거 걸러내기 위해서 set()
 얘는 순열이 1부터 시작해야 한다고 했으니, min이 1이 아니면 순열 X.
+
+Detected time complexity:
+O(N) or O(N * log(N))
 """
 
 
