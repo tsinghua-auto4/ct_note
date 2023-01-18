@@ -1,9 +1,5 @@
 import sys
-<<<<<<< HEAD
 sys.setrecursionlimit(10 ** 6)
-=======
-
->>>>>>> f20ea0abda8e95381e652354ddb38d38fc73f0d6
 input = sys.stdin.readline
 
 # 입력
