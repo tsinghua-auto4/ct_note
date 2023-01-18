@@ -1,11 +1,13 @@
 import sys
 input = sys.stdin.readline
 
+# 입력
 n = int(input())
 data = list(map(int, input().split()))
 
-prefix_sum_1 = 0
-prefix_sum_2 = 0
+# 부분합
+prefix_sum_1 = 0 # 왼쪽 기준으로
+prefix_sum_2 = 0 # 오른쪽 기준으로
 
 max_1 = 0
 max_2 = 0
