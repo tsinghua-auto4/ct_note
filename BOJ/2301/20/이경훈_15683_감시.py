@@ -27,7 +27,6 @@ for i in range(n):
 
 
 def fill(graph, mode, x, y):
-  print(mode)
   for i in mode:
     nx = x
     ny = y
@@ -44,6 +43,7 @@ def fill(graph, mode, x, y):
 
 def dfs(depth, graph):
   global min_val
+  print(f'{depth} dfs 선언부')
   if depth == len(cctv):
     cnt = 0
     for i in range(n):
@@ -56,6 +56,7 @@ def dfs(depth, graph):
   for i in mode[cctv_num]:
     fill(temp, i, x, y)
     dfs(depth + 1, temp)
+    print(f'{depth} {i}후반부')
     temp = copy.deepcopy(graph)
 
 
